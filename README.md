@@ -1,6 +1,9 @@
 # QuoridorAI
 
 This is an AI agent who plays Quoridor board game
+```
+git clone https://github.com/sanmarsimon/QuoridorAI.git
+```
 
 ## If you want to play against our agent:
 First you'll have to run our agent on a port 
